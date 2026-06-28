@@ -54,13 +54,16 @@ This project deploys a functional SIEM on a virtualized network, simulates SSH b
 ### Elasticsearch Running
 ![Elasticsearch Running](screenshots/elasticsearch-running.png)
 
+### Kibana Setup
+![Kibana Setup](screenshots/kibana-setup.png)
+
 ### Kibana Dashboard
 ![Kibana Dashboard](screenshots/kibana-dashboard.png)
 
 ### Logs Flowing into Kibana
-![Logs Flowing](screenshots/logs-flowing.png)
+![Logs Flowing](screenshots/logs-flowing-kibana.png)
 
-### Brute Force Attack Logs
+### Brute Force Attack Detected
 ![Brute Force Logs](screenshots/brute-force-detected-kibana.png)
 
 ### Auth Log During Attack
@@ -82,22 +85,22 @@ This project deploys a functional SIEM on a virtualized network, simulates SSH b
 ![Multiple Alerts](screenshots/multiple-alerts-dashboard.png)
 
 ### Cowrie Honeypot Running
-![Cowrie Running](screenshots/cowire-running.png)
+![Cowrie Running](screenshots/cowrie-running.png)
 
 ### Attacker View of Honeypot
-![Cowrie Attacker View](screenshots/cowire-attacker-view.png)
+![Cowrie Attacker View](screenshots/cowrie-attacker-view.png)
 
 ### Cowrie Command Logs
-![Cowrie Logs](screenshots/cowire-logs.png)
+![Cowrie Logs](screenshots/cowrie-logs.png)
 
 ### Cowrie Logs in Kibana
-![Cowrie Kibana](screenshots/cowire-kibana-logs.png)
+![Cowrie Kibana](screenshots/cowrie-kibana-logs.png)
 
 ### Cowrie 31 Events in Kibana
-![Cowrie Events](screenshots/cowire-kibana-31-events.png)
+![Cowrie Events](screenshots/cowrie-kibana-31-events.png)
 
 ### Honeypot Detection Rule
-![Honeypot Rule](screenshots/honeypot-rule-created.png)
+![Honeypot Rule](screenshots/honey-pot-rule-created.png)
 
 ### Security Overview Dashboard
 ![Security Dashboard](screenshots/kibana-security-dashboard.png)
